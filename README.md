@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 ### I'm currently learning C/C++ @42 Lisbon
- [![dviegas's 42 stats](https://badge.mediaplus.ma/darkblue/dviegas?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
- [![Skills](https://skillicons.dev/icons?i=c,cmake,bash,linux,git,github,vim,vscode)](https://skillicons.dev)
-[![](https://visitcount.itsvg.in/api?id=pfviegas&label=%20&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
+[![dviegas's 42 stats](https://badge.mediaplus.ma/greenbinary/dviegas?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![Skills](https://skillicons.dev/icons?i=c,cmake,bash,linux,git,github,vim,vscode)](https://skillicons.dev)
+[![](https://visitcount.itsvg.in/api?id=Diogo-Viegas&label=%20&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
 <!--
 **Diogo-Viegas/Diogo-Viegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
